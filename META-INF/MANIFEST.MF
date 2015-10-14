@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: algs4parti
+Bundle-SymbolicName: algs4parti
+Bundle-Version: 1.0.0.qualifier
+Export-Package: unionfind
+Require-Bundle: org.eclipse.core.runtime,
+ guava;bundle-version="18.0.0"
+Bundle-ActivationPolicy: lazy
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
