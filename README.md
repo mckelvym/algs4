@@ -2,4 +2,8 @@
 
 Class files for Coursera course on algorithms.
 
-See: [http://coursera.cs.princeton.edu/algs4](http://coursera.cs.princeton.edu/algs4)
+See: 
+
+- [https://algs4.cs.princeton.edu/home/](https://algs4.cs.princeton.edu/home/)
+- [https://www.coursera.org/learn/algorithms-part1](https://www.coursera.org/learn/algorithms-part1)
+- [https://www.coursera.org/learn/algorithms-part2](https://www.coursera.org/learn/algorithms-part2)
